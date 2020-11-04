@@ -1,0 +1,13 @@
+body {
+ background-color: #FF7F00;
+ color: black;
+text-align: center;
+font-family: Arial;
+font-size: 13px;
+line-height: 120%;
+background-repeat:no-repeat;
+background-position:right top;
+}
+table{
+margin:auto;
+}

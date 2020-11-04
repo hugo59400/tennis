@@ -1,0 +1,14 @@
+body {
+ background-color: #8470FF;
+    color: white;
+text-align: center;
+font-family: Arial;
+font-size: 13px;
+line-height: 100%;
+background-repeat:no-repeat;
+background-position:right;
+ overflow:scroll;
+}
+table{
+margin:auto;
+}
